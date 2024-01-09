@@ -1,0 +1,18 @@
+{
+  "baseUrl": {
+    "StagingUrl": "https://employeeportal.pheonixsolutions.com/",
+    "ProductionUrl": "https://employeeportal.pheonixsolutions.com/"
+  },
+  "employee": {
+    "mail": "venkatesh@pheonixsolutions.com",
+    "password": "qwedsa@123"
+  },
+  "admin": {
+    "mail": "monisha@gmail.com",
+    "password": "12345"
+  },
+  "superadmin": {
+    "mail": "superadmin@gmail.com",
+    "password": "sa123"
+  }
+}
